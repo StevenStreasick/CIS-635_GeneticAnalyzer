@@ -1,4 +1,4 @@
-# GeneticAnalyzer
+# Genetic Analyzer
 ## The Project 
 For my project, I was particularly interested in analyzing genetics of some sorts. Some of my previous research involved analyzing genetics of high altitude populations such as the Tibetan and Andean population to other low land populations. My initial idea was to create an agent that would be able to identify people of high altitude populations. However, due to a combination of time and access limitations, this project quickly grew out of scope for this class. So an alternative project idea of creating a clustering algorithm based on the different populations was proposed and adopted. 
 
